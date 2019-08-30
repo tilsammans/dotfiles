@@ -1,0 +1,8 @@
+user.email=joost@spacebabies.nl
+user.name=Joost Baaij
+push.default=current
+core.excludesfile=/home/joost/.gitignore
+core.autocrlf=input
+fetch.prune=true
+rebase.autosquash=true
+diff.colormoved=zebra
