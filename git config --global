@@ -1,5 +1,6 @@
 user.email=joost@spacebabies.nl
 user.name=Joost Baaij
+pull.rebase=true
 push.default=current
 core.excludesfile=/home/joost/.gitignore
 core.autocrlf=input
